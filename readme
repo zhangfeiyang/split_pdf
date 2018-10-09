@@ -1,0 +1,6 @@
+you can use the command like:
+
+"./run.py 0" to split 0.pdf
+
+"./run.py 1" to split 1.pdf
+
